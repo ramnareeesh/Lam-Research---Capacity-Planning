@@ -3,7 +3,7 @@ import pulp
 import pandas as pd
 
 st.title("CAPACITY PLANNING MODULE")
-st.header("Resource Planning")
+st.header("Resource Planning using Constraint Programming")
 
 
 st.write("---")
