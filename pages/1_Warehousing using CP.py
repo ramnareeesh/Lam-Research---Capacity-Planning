@@ -87,7 +87,7 @@ def generate_LP_file():
     prob.writeLP("WarehousingPlanning.lp")
 
 
-st.button("Generate LP file", on_click=generate_LP_file)
+# st.button("Generate LP file", on_click=generate_LP_file)
 
 
 # prob.solve(pulp.PULP_CBC_CMD(msg=False))
