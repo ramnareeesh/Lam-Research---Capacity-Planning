@@ -15,3 +15,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run ResourcePlanning.py
 ```
+## Example configuration files
+
+1. [ResourcePlanning.json](https://github.com/ramnareeesh/Lam-Research---Capacity-Planning/blob/main/ResourcePlanning.json)
+2. [Warehousing.json](https://github.com/ramnareeesh/Lam-Research---Capacity-Planning/blob/main/ResourcePlanning.json)
