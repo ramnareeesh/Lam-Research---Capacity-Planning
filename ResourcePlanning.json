@@ -1,0 +1,60 @@
+{
+  "set 1": {
+    "days": 10,
+    "predicted_demand": [
+      70,
+      100,
+      90,
+      110,
+      120,
+      130,
+      50,
+      80,
+      60,
+      140
+    ],
+    "worker_cost": 2,
+    "supply_cost": 1,
+    "lowerBound_workers": 5,
+    "lowerBound_supplies": 10,
+    "proportion": 2,
+    "max_change_workers": 5,
+    "max_change_supplies": 10
+  },
+  "set 2": {
+    "days": 7,
+    "predicted_demand": [
+      60,
+      85,
+      75,
+      95,
+      100,
+      115,
+      65
+    ],
+    "worker_cost": 3,
+    "supply_cost": 1.5,
+    "lowerBound_workers": 6,
+    "lowerBound_supplies": 12,
+    "proportion": 3,
+    "max_change_workers": 4,
+    "max_change_supplies": 8
+  },
+  "set 3": {
+    "days": 5,
+    "predicted_demand": [
+      55,
+      70,
+      65,
+      80,
+      75
+    ],
+    "worker_cost": 2.5,
+    "supply_cost": 1.2,
+    "lowerBound_workers": 4,
+    "lowerBound_supplies": 8,
+    "proportion": 2,
+    "max_change_workers": 3,
+    "max_change_supplies": 6
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "set 1": {
+    "warehouse_count": 2,
+    "warehouses": ["Warehouse 1", "Warehouse 2"],
+    "supply": {
+      "Warehouse 1": 1000,
+      "Warehouse 2": 4000
+    },
+    "customer_count": 5,
+    "customers": ["Customer 1", "Customer 2", "Customer 3", "Customer 4", "Customer 5"],
+    "demand": {
+      "Customer 1": 500,
+      "Customer 2": 900,
+      "Customer 3": 1800,
+      "Customer 4": 200,
+      "Customer 5": 700
+    },
+    "costs": [
+      [2, 4, 5, 2, 1],
+      [3, 1, 3, 2, 3]
+    ]
+  },
+  "set 2": {
+    "warehouse_count": 3,
+    "warehouses": ["Warehouse A", "Warehouse B", "Warehouse C"],
+    "supply": {
+      "Warehouse A": 1500,
+      "Warehouse B": 2500,
+      "Warehouse C": 3000
+    },
+    "customer_count": 4,
+    "customers": ["Customer X", "Customer Y", "Customer Z", "Customer W"],
+    "demand": {
+      "Customer X": 600,
+      "Customer Y": 1200,
+      "Customer Z": 1500,
+      "Customer W": 1000
+    },
+    "costs": [
+      [4, 2, 3, 5],
+      [3, 4, 2, 1],
+      [5, 3, 1, 4]
+    ]
+  },
+  "set 3": {
+    "warehouse_count": 4,
+    "warehouses": ["Warehouse Alpha", "Warehouse Beta", "Warehouse Gamma", "Warehouse Delta"],
+    "supply": {
+      "Warehouse Alpha": 2000,
+      "Warehouse Beta": 3000,
+      "Warehouse Gamma": 2500,
+      "Warehouse Delta": 1500
+    },
+    "customer_count": 6,
+    "customers": ["Customer 1", "Customer 2", "Customer 3", "Customer 4", "Customer 5", "Customer 6"],
+    "demand": {
+      "Customer 1": 800,
+      "Customer 2": 700,
+      "Customer 3": 600,
+      "Customer 4": 1500,
+      "Customer 5": 900,
+      "Customer 6": 1000
+    },
+    "costs": [
+      [3, 2, 4, 5, 1, 3],
+      [2, 3, 3, 2, 4, 2],
+      [5, 4, 2, 3, 1, 4],
+      [4, 3, 5, 1, 2, 3]
+    ]
+  }
+}
