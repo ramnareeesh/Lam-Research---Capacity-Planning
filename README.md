@@ -1,6 +1,8 @@
 # Lam-Research---Capacity-Planning
 Public repo for hosting Streamlit app on Capacity Planning [Lam Research]
 
+## https://capacity-planning.streamlit.app/
+
 ## Installation
     
 ```bash
